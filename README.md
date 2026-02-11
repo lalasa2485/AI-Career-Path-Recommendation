@@ -1,6 +1,5 @@
 
-# 🚀 AI-Powered Career Path Recommender
-
+# 🚀 NextStep Career AI 
 A comprehensive career guidance platform using OpenAI GPT-4o-mini with FastAPI backend and React frontend.
 
 ## ✨ Features
@@ -105,3 +104,4 @@ Frontend will run on `http://localhost:3000`
 ## 📝 License
 
 MIT
+
